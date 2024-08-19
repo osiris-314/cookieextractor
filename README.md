@@ -2,7 +2,7 @@
 
 # !!! DISCLAIMER !!!
 
-This script if for educational purposes only, as this is illegal to perform without consent from the owner of the account you are trying to test. Use it at your own risk. Only test accounts that you have permision to test.
+This script is for educational purposes only, as this is illegal to perform without consent from the owner of the account you are trying to test. Use it at your own risk. Only test accounts that you have permision to test.
 
 #
 usage: python cookie_extractor.py
